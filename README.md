@@ -1,3 +1,5 @@
 # MyBlog-Website
 
-This Is a project for my bootcamp To help reinforce everything I have learned up until now
+This project is to test my understanding of what I have learned and may turn this into a real website to use a database. 
+
+to use please run ```npm install```   ```node app.js```
